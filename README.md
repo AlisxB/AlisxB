@@ -45,16 +45,21 @@ isolation and quality — CI with real gates for coverage, lint and dependency a
 ## Estatísticas · Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlisxB&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisxB&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlisxB&theme=github_dark" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AlisxB&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlisxB&theme=github_dark" alt="Languages by repo" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlisxB&theme=github_dark" alt="Languages by commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlisxB&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlisxB&theme=github_dark" alt="Stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlisxB&theme=github_dark&utcOffset=-3" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com/?user=AlisxB&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
