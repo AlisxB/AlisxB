@@ -42,6 +42,23 @@ isolation and quality — CI with real gates for coverage, lint and dependency a
 
 ---
 
+## Estatísticas · Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlisxB&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisxB&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AlisxB&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlisxB&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+</p>
+
+---
+
 ## Contato · Contact
 
 **Email:** [alisonbezerrax@gmail.com](mailto:alisonbezerrax@gmail.com)
